@@ -9,14 +9,17 @@ class TacticsToolsScraper:
     def __init__(self):
         self.base_url = "https://tactics.tools"
         self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Cache-Control': 'no-cache',
+            'Pragma': 'no-cache'
         }
     
     def get_summoner_stats(self, region: str, player_name: str, tag: str) -> Dict:
         from urllib.parse import quote
         encoded_name = quote(player_name)
         
-        url = f"{self.base_url}/player/{region}/{encoded_name}/{tag}"
+        timestamp = int(time.time())
+        url = f"{self.base_url}/player/{region}/{encoded_name}/{tag}?_={timestamp}"
         
         print(f"Scraping: {url}")
         
