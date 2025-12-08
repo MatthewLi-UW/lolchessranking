@@ -12,22 +12,8 @@ type SortDirection = 'asc' | 'desc';
 
 export default function LeaderboardTable({ players: initialPlayers }: LeaderboardTableProps) {
   const [players, setPlayers] = useState<PlayerStats[]>(initialPlayers);
-  const [lastUpdated, setLastUpdated] = useState<string>(new Date().toLocaleString());
   const [sortField, setSortField] = useState<SortField>('avg_placement');
   const [sortDirection, setSortDirection] = useState<SortDirection>('asc');
-
-  const refreshData = async () => {
-    try {
-      const response = await fetch('/api/stats');
-      if (response.ok) {
-        const data = await response.json();
-        setPlayers(data.players);
-        setLastUpdated(new Date().toLocaleString());
-      }
-    } catch (error) {
-      console.error('Failed to refresh data:', error);
-    }
-  };
 
   const handleSort = (field: SortField) => {
     if (sortField === field) {
@@ -160,25 +146,18 @@ export default function LeaderboardTable({ players: initialPlayers }: Leaderboar
   );
 
   return (
-    <div className="w-full">
-      <div className="flex justify-between items-center mb-8">
-        <div>
-          <p className="text-gray-400 text-lg">All Ranked Games • Set 16</p>
+    <div className="w-full flex flex-col items-center">
+      <div className="w-full max-w-6xl">
+        <div className="flex justify-between items-center mb-8">
+          <div>
+            <p className="text-gray-400 text-lg">All Ranked Games • Set 16</p>
+          </div>
+          <div className="text-right">
+            <p className="text-sm text-gray-400">Auto-updates every hour</p>
+          </div>
         </div>
-        <div className="text-right">
-          <button
-            onClick={refreshData}
-            className="px-6 py-3 bg-white/10 hover:bg-white/20 text-white rounded-xl font-medium transition-all duration-200 mb-3"
-          >
-            <span className="flex items-center gap-2">
-              Refresh Data
-            </span>
-          </button>
-          <p className="text-sm text-gray-500">Updated: {lastUpdated}</p>
-        </div>
-      </div>
 
-      <div className="relative">
+        <div className="relative">
         <div style={{
           background: 'rgba(255, 255, 255, 0.2)',
           borderRadius: '16px',
@@ -267,7 +246,7 @@ export default function LeaderboardTable({ players: initialPlayers }: Leaderboar
           </div>
         </div>
       </div>
-
+      </div>
     </div>
   );
 }

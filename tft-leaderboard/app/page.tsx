@@ -26,7 +26,7 @@ export default async function Home() {
 
 
   return (
-    <main className="min-h-screen relative p-8 overflow-hidden" style={{
+    <main className="min-h-screen relative p-8 overflow-hidden flex items-center justify-center" style={{
       background: 'linear-gradient(109.6deg, rgb(10, 15, 25) 11.2%, rgb(20, 30, 45) 91.1%)'
     }}>
       <div className="absolute top-20 left-10 w-32 h-32 rounded-2xl animate-float opacity-30" style={{
@@ -65,7 +65,7 @@ export default async function Home() {
         animation: 'float 9s ease-in-out infinite 0.5s'
       }}></div>
 
-      <div className="max-w-7xl mx-auto relative z-10">
+      <div className="w-full max-w-7xl relative z-10">
         <LeaderboardTable players={players} />
       </div>
     </main>
