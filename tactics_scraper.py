@@ -161,7 +161,7 @@ def display_ranking_board(ranked_stats: List[Dict]):
     print("\n📊 Stats based on ALL ranked games (Set 16) from tactics.tools")
 
 
-def save_ranking_board(ranked_stats: List[Dict], filename: str = "ranking_board_tactics.json"):
+def save_ranking_board(ranked_stats: List[Dict], filename: str = "tft-leaderboard/public/ranking_board_tactics.json"):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(ranked_stats, f, indent=2, ensure_ascii=False)
     print(f"\n✓ Ranking board saved to {filename}")

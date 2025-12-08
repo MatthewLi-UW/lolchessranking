@@ -1,1 +1,1 @@
-# TFT Scraper & Ranking Board
+# Challenge Leaderboard
