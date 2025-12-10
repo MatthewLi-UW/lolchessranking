@@ -1,24 +1,8 @@
 [
   {
-    "summoner": "Numinya#flush",
-    "region": "NA",
-    "url": "https://tactics.tools/player/na/Numinya/flush?_=1765355691",
-    "rank": "",
-    "tier": "GOLD",
-    "lp": 99,
-    "win_rate": 25.0,
-    "top4_rate": 66.66666666666666,
-    "total_games": 12,
-    "wins": 3,
-    "top4s": 8,
-    "avg_placement": 3.5,
-    "last_played": "2025-12-10 03:50:05",
-    "current_rank": "GOLD IV 99 LP"
-  },
-  {
     "summoner": "Shμbbanuffa#NA1",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1765355687",
+    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1765358949",
     "rank": "",
     "tier": "GOLD",
     "lp": 79,
@@ -34,7 +18,7 @@
   {
     "summoner": "SUPER CHICKEN#birds",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1765355688",
+    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1765358951",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 0,
@@ -48,9 +32,25 @@
     "current_rank": "PLATINUM IV 0 LP"
   },
   {
+    "summoner": "Numinya#flush",
+    "region": "NA",
+    "url": "https://tactics.tools/player/na/Numinya/flush?_=1765358956",
+    "rank": "",
+    "tier": "GOLD",
+    "lp": 15,
+    "win_rate": 21.428571428571427,
+    "top4_rate": 64.28571428571429,
+    "total_games": 14,
+    "wins": 3,
+    "top4s": 9,
+    "avg_placement": 3.7142857142857144,
+    "last_played": "2025-12-10 07:14:27",
+    "current_rank": "GOLD III 15 LP"
+  },
+  {
     "summoner": "agz#fif",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/agz/fif?_=1765355692",
+    "url": "https://tactics.tools/player/na/agz/fif?_=1765358958",
     "rank": "",
     "tier": "BRONZE",
     "lp": 32,
@@ -66,7 +66,7 @@
   {
     "summoner": "Stelle#def",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Stelle/def?_=1765355689",
+    "url": "https://tactics.tools/player/na/Stelle/def?_=1765358953",
     "rank": "",
     "tier": "GOLD",
     "lp": 50,
