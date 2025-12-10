@@ -1,24 +1,8 @@
 [
   {
-    "summoner": "SUPER CHICKEN#birds",
-    "region": "NA",
-    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1765337845",
-    "rank": "",
-    "tier": "PLATINUM",
-    "lp": 22,
-    "win_rate": 21.052631578947366,
-    "top4_rate": 78.94736842105263,
-    "total_games": 19,
-    "wins": 4,
-    "top4s": 15,
-    "avg_placement": 3.4210526315789473,
-    "last_played": "2025-12-09 22:30:35",
-    "current_rank": "PLATINUM IV 22 LP"
-  },
-  {
     "summoner": "Shμbbanuffa#NA1",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1765337842",
+    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1765341398",
     "rank": "",
     "tier": "GOLD",
     "lp": 79,
@@ -32,9 +16,25 @@
     "current_rank": "GOLD II 79 LP"
   },
   {
+    "summoner": "SUPER CHICKEN#birds",
+    "region": "NA",
+    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1765341400",
+    "rank": "",
+    "tier": "PLATINUM",
+    "lp": 0,
+    "win_rate": 19.047619047619047,
+    "top4_rate": 76.19047619047619,
+    "total_games": 21,
+    "wins": 4,
+    "top4s": 16,
+    "avg_placement": 3.6666666666666665,
+    "last_played": "2025-12-10 03:05:16",
+    "current_rank": "PLATINUM IV 0 LP"
+  },
+  {
     "summoner": "Numinya#flush",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Numinya/flush?_=1765337848",
+    "url": "https://tactics.tools/player/na/Numinya/flush?_=1765341403",
     "rank": "",
     "tier": "SILVER",
     "lp": 97,
@@ -50,7 +50,7 @@
   {
     "summoner": "agz#fif",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/agz/fif?_=1765337849",
+    "url": "https://tactics.tools/player/na/agz/fif?_=1765341404",
     "rank": "",
     "tier": "BRONZE",
     "lp": 32,
@@ -66,17 +66,17 @@
   {
     "summoner": "Stelle#def",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Stelle/def?_=1765337846",
+    "url": "https://tactics.tools/player/na/Stelle/def?_=1765341401",
     "rank": "",
     "tier": "GOLD",
-    "lp": 20,
-    "win_rate": 13.793103448275861,
-    "top4_rate": 48.275862068965516,
-    "total_games": 29,
-    "wins": 4,
-    "top4s": 14,
-    "avg_placement": 4.517241379310345,
-    "last_played": "2025-12-07 04:06:16",
-    "current_rank": "GOLD III 20 LP"
+    "lp": 94,
+    "win_rate": 16.666666666666664,
+    "top4_rate": 50.0,
+    "total_games": 30,
+    "wins": 5,
+    "top4s": 15,
+    "avg_placement": 4.4,
+    "last_played": "2025-12-10 02:41:24",
+    "current_rank": "GOLD III 94 LP"
   }
 ]
