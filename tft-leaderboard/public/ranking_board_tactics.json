@@ -2,7 +2,7 @@
   {
     "summoner": "Shμbbanuffa#NA1",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1765610693",
+    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1765614578",
     "rank": "",
     "tier": "GOLD",
     "lp": 79,
@@ -18,7 +18,7 @@
   {
     "summoner": "SUPER CHICKEN#birds",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1765610695",
+    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1765614579",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 0,
@@ -32,9 +32,25 @@
     "current_rank": "PLATINUM IV 0 LP"
   },
   {
+    "summoner": "agz#fif",
+    "region": "NA",
+    "url": "https://tactics.tools/player/na/agz/fif?_=1765614583",
+    "rank": "",
+    "tier": "GOLD",
+    "lp": 33,
+    "win_rate": 25.0,
+    "top4_rate": 56.25,
+    "total_games": 16,
+    "wins": 4,
+    "top4s": 9,
+    "avg_placement": 3.75,
+    "last_played": "2025-12-13 05:59:00",
+    "current_rank": "GOLD IV 33 LP"
+  },
+  {
     "summoner": "Numinya#flush",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Numinya/flush?_=1765610697",
+    "url": "https://tactics.tools/player/na/Numinya/flush?_=1765614581",
     "rank": "",
     "tier": "GOLD",
     "lp": 81,
@@ -48,25 +64,9 @@
     "current_rank": "GOLD I 81 LP"
   },
   {
-    "summoner": "agz#fif",
-    "region": "NA",
-    "url": "https://tactics.tools/player/na/agz/fif?_=1765610699",
-    "rank": "",
-    "tier": "SILVER",
-    "lp": 39,
-    "win_rate": 20.0,
-    "top4_rate": 53.333333333333336,
-    "total_games": 15,
-    "wins": 3,
-    "top4s": 8,
-    "avg_placement": 3.933333333333333,
-    "last_played": "2025-12-13 05:16:21",
-    "current_rank": "SILVER I 39 LP"
-  },
-  {
     "summoner": "Stelle#def",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Stelle/def?_=1765610696",
+    "url": "https://tactics.tools/player/na/Stelle/def?_=1765614580",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 0,
