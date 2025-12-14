@@ -2,7 +2,7 @@
   {
     "summoner": "Shμbbanuffa#NA1",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1765677901",
+    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1765684864",
     "rank": "",
     "tier": "GOLD",
     "lp": 79,
@@ -18,7 +18,7 @@
   {
     "summoner": "SUPER CHICKEN#birds",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1765677902",
+    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1765684865",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 0,
@@ -32,25 +32,9 @@
     "current_rank": "PLATINUM IV 0 LP"
   },
   {
-    "summoner": "agz#fif",
-    "region": "NA",
-    "url": "https://tactics.tools/player/na/agz/fif?_=1765677906",
-    "rank": "",
-    "tier": "GOLD",
-    "lp": 59,
-    "win_rate": 22.22222222222222,
-    "top4_rate": 61.111111111111114,
-    "total_games": 18,
-    "wins": 4,
-    "top4s": 11,
-    "avg_placement": 3.7777777777777777,
-    "last_played": "2025-12-13 22:10:45",
-    "current_rank": "GOLD IV 59 LP"
-  },
-  {
     "summoner": "Numinya#flush",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Numinya/flush?_=1765677905",
+    "url": "https://tactics.tools/player/na/Numinya/flush?_=1765684868",
     "rank": "",
     "tier": "GOLD",
     "lp": 42,
@@ -64,9 +48,25 @@
     "current_rank": "GOLD I 42 LP"
   },
   {
+    "summoner": "agz#fif",
+    "region": "NA",
+    "url": "https://tactics.tools/player/na/agz/fif?_=1765684870",
+    "rank": "",
+    "tier": "GOLD",
+    "lp": 64,
+    "win_rate": 19.047619047619047,
+    "top4_rate": 57.14285714285714,
+    "total_games": 21,
+    "wins": 4,
+    "top4s": 12,
+    "avg_placement": 4.0476190476190474,
+    "last_played": "2025-12-14 01:43:45",
+    "current_rank": "GOLD IV 64 LP"
+  },
+  {
     "summoner": "Stelle#def",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Stelle/def?_=1765677904",
+    "url": "https://tactics.tools/player/na/Stelle/def?_=1765684867",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 0,
