@@ -2,7 +2,7 @@
   {
     "summoner": "Shμbbanuffa#NA1",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1765837482",
+    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1765841066",
     "rank": "",
     "tier": "GOLD",
     "lp": 79,
@@ -18,7 +18,7 @@
   {
     "summoner": "SUPER CHICKEN#birds",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1765837483",
+    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1765841067",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 48,
@@ -34,7 +34,7 @@
   {
     "summoner": "Numinya#flush",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Numinya/flush?_=1765837486",
+    "url": "https://tactics.tools/player/na/Numinya/flush?_=1765841069",
     "rank": "",
     "tier": "GOLD",
     "lp": 93,
@@ -48,9 +48,25 @@
     "current_rank": "GOLD I 93 LP"
   },
   {
+    "summoner": "Stelle#def",
+    "region": "NA",
+    "url": "https://tactics.tools/player/na/Stelle/def?_=1765841068",
+    "rank": "",
+    "tier": "PLATINUM",
+    "lp": 32,
+    "win_rate": 21.428571428571427,
+    "top4_rate": 52.38095238095239,
+    "total_games": 42,
+    "wins": 9,
+    "top4s": 22,
+    "avg_placement": 4.261904761904762,
+    "last_played": "2025-12-15 21:42:51",
+    "current_rank": "PLATINUM III 32 LP"
+  },
+  {
     "summoner": "agz#fif",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/agz/fif?_=1765837487",
+    "url": "https://tactics.tools/player/na/agz/fif?_=1765841071",
     "rank": "",
     "tier": "GOLD",
     "lp": 22,
@@ -62,21 +78,5 @@
     "avg_placement": 4.291666666666667,
     "last_played": "2025-12-14 05:48:40",
     "current_rank": "GOLD IV 22 LP"
-  },
-  {
-    "summoner": "Stelle#def",
-    "region": "NA",
-    "url": "https://tactics.tools/player/na/Stelle/def?_=1765837484",
-    "rank": "",
-    "tier": "PLATINUM",
-    "lp": 49,
-    "win_rate": 19.047619047619047,
-    "top4_rate": 50.0,
-    "total_games": 42,
-    "wins": 8,
-    "top4s": 21,
-    "avg_placement": 4.357142857142857,
-    "last_played": "2025-12-15 19:55:17",
-    "current_rank": "PLATINUM IV 49 LP"
   }
 ]
