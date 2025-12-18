@@ -2,7 +2,7 @@
   {
     "summoner": "Shμbbanuffa#NA1",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1766089535",
+    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1766092860",
     "rank": "",
     "tier": "GOLD",
     "lp": 79,
@@ -18,7 +18,7 @@
   {
     "summoner": "SUPER CHICKEN#birds",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1766089537",
+    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1766092861",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 48,
@@ -34,7 +34,7 @@
   {
     "summoner": "Numinya#flush",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Numinya/flush?_=1766089539",
+    "url": "https://tactics.tools/player/na/Numinya/flush?_=1766092863",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 0,
@@ -48,25 +48,9 @@
     "current_rank": "PLATINUM III 0 LP"
   },
   {
-    "summoner": "Stelle#def",
-    "region": "NA",
-    "url": "https://tactics.tools/player/na/Stelle/def?_=1766089538",
-    "rank": "",
-    "tier": "EMERALD",
-    "lp": 0,
-    "win_rate": 23.809523809523807,
-    "top4_rate": 52.38095238095239,
-    "total_games": 42,
-    "wins": 10,
-    "top4s": 22,
-    "avg_placement": 4.285714285714286,
-    "last_played": "2025-12-17 21:46:48",
-    "current_rank": "EMERALD IV 0 LP"
-  },
-  {
     "summoner": "agz#fif",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/agz/fif?_=1766089540",
+    "url": "https://tactics.tools/player/na/agz/fif?_=1766092865",
     "rank": "",
     "tier": "GOLD",
     "lp": 22,
@@ -78,5 +62,21 @@
     "avg_placement": 4.291666666666667,
     "last_played": "2025-12-14 05:48:40",
     "current_rank": "GOLD IV 22 LP"
+  },
+  {
+    "summoner": "Stelle#def",
+    "region": "NA",
+    "url": "https://tactics.tools/player/na/Stelle/def?_=1766092862",
+    "rank": "",
+    "tier": "EMERALD",
+    "lp": 0,
+    "win_rate": 21.428571428571427,
+    "top4_rate": 50.0,
+    "total_games": 42,
+    "wins": 9,
+    "top4s": 21,
+    "avg_placement": 4.4523809523809526,
+    "last_played": "2025-12-18 20:09:43",
+    "current_rank": "EMERALD IV 0 LP"
   }
 ]
