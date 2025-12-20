@@ -2,7 +2,7 @@
   {
     "summoner": "Shμbbanuffa#NA1",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1766219443",
+    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1766222646",
     "rank": "",
     "tier": "GOLD",
     "lp": 79,
@@ -18,7 +18,7 @@
   {
     "summoner": "SUPER CHICKEN#birds",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1766219444",
+    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1766222647",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 48,
@@ -34,7 +34,7 @@
   {
     "summoner": "Numinya#flush",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Numinya/flush?_=1766219447",
+    "url": "https://tactics.tools/player/na/Numinya/flush?_=1766222649",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 0,
@@ -50,7 +50,7 @@
   {
     "summoner": "agz#fif",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/agz/fif?_=1766219448",
+    "url": "https://tactics.tools/player/na/agz/fif?_=1766222650",
     "rank": "",
     "tier": "GOLD",
     "lp": 22,
@@ -66,17 +66,17 @@
   {
     "summoner": "Stelle#def",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Stelle/def?_=1766219445",
+    "url": "https://tactics.tools/player/na/Stelle/def?_=1766222648",
     "rank": "",
     "tier": "EMERALD",
-    "lp": 40,
-    "win_rate": 22.727272727272727,
-    "top4_rate": 50.0,
-    "total_games": 44,
+    "lp": 18,
+    "win_rate": 22.22222222222222,
+    "top4_rate": 48.888888888888886,
+    "total_games": 45,
     "wins": 10,
     "top4s": 22,
-    "avg_placement": 4.386363636363637,
-    "last_played": "2025-12-20 04:07:51",
-    "current_rank": "EMERALD IV 40 LP"
+    "avg_placement": 4.4222222222222225,
+    "last_played": "2025-12-20 04:49:30",
+    "current_rank": "EMERALD IV 18 LP"
   }
 ]
