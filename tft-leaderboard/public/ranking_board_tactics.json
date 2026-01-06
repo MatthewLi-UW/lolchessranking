@@ -2,7 +2,7 @@
   {
     "summoner": "Shμbbanuffa#NA1",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1767677348",
+    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1767681631",
     "rank": "",
     "tier": "GOLD",
     "lp": 79,
@@ -16,25 +16,9 @@
     "current_rank": "GOLD II 79 LP"
   },
   {
-    "summoner": "SUPER CHICKEN#birds",
-    "region": "NA",
-    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1767677349",
-    "rank": "",
-    "tier": "EMERALD",
-    "lp": 39,
-    "win_rate": 23.404255319148938,
-    "top4_rate": 63.829787234042556,
-    "total_games": 47,
-    "wins": 11,
-    "top4s": 30,
-    "avg_placement": 3.723404255319149,
-    "last_played": "2026-01-06 03:36:52",
-    "current_rank": "EMERALD II 39 LP"
-  },
-  {
     "summoner": "agz#fif",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/agz/fif?_=1767677353",
+    "url": "https://tactics.tools/player/na/agz/fif?_=1767681636",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 59,
@@ -48,9 +32,25 @@
     "current_rank": "PLATINUM III 59 LP"
   },
   {
+    "summoner": "SUPER CHICKEN#birds",
+    "region": "NA",
+    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1767681633",
+    "rank": "",
+    "tier": "EMERALD",
+    "lp": 8,
+    "win_rate": 23.404255319148938,
+    "top4_rate": 61.702127659574465,
+    "total_games": 47,
+    "wins": 11,
+    "top4s": 29,
+    "avg_placement": 3.8297872340425534,
+    "last_played": "2026-01-06 04:18:28",
+    "current_rank": "EMERALD II 8 LP"
+  },
+  {
     "summoner": "Numinya#flush",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Numinya/flush?_=1767677352",
+    "url": "https://tactics.tools/player/na/Numinya/flush?_=1767681635",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 0,
@@ -66,7 +66,7 @@
   {
     "summoner": "Stelle#def",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Stelle/def?_=1767677351",
+    "url": "https://tactics.tools/player/na/Stelle/def?_=1767681634",
     "rank": "",
     "tier": "EMERALD",
     "lp": 0,
