@@ -2,7 +2,7 @@
   {
     "summoner": "agz#fif",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/agz/fif?_=1767803767",
+    "url": "https://tactics.tools/player/na/agz/fif?_=1767806984",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 59,
@@ -16,25 +16,9 @@
     "current_rank": "PLATINUM III 59 LP"
   },
   {
-    "summoner": "Shμbbanuffa#NA1",
-    "region": "NA",
-    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1767803762",
-    "rank": "",
-    "tier": "GOLD",
-    "lp": 59,
-    "win_rate": 31.57894736842105,
-    "top4_rate": 57.89473684210527,
-    "total_games": 19,
-    "wins": 6,
-    "top4s": 11,
-    "avg_placement": 3.789473684210526,
-    "last_played": "2026-01-06 17:43:28",
-    "current_rank": "GOLD I 59 LP"
-  },
-  {
     "summoner": "SUPER CHICKEN#birds",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1767803763",
+    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1767806981",
     "rank": "",
     "tier": "EMERALD",
     "lp": 79,
@@ -48,9 +32,25 @@
     "current_rank": "EMERALD II 79 LP"
   },
   {
+    "summoner": "Shμbbanuffa#NA1",
+    "region": "NA",
+    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1767806979",
+    "rank": "",
+    "tier": "GOLD",
+    "lp": 41,
+    "win_rate": 30.0,
+    "top4_rate": 55.00000000000001,
+    "total_games": 20,
+    "wins": 6,
+    "top4s": 11,
+    "avg_placement": 3.9,
+    "last_played": "2026-01-07 15:36:17",
+    "current_rank": "GOLD I 41 LP"
+  },
+  {
     "summoner": "Numinya#flush",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Numinya/flush?_=1767803766",
+    "url": "https://tactics.tools/player/na/Numinya/flush?_=1767806983",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 0,
@@ -66,7 +66,7 @@
   {
     "summoner": "Stelle#def",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Stelle/def?_=1767803764",
+    "url": "https://tactics.tools/player/na/Stelle/def?_=1767806982",
     "rank": "",
     "tier": "EMERALD",
     "lp": 17,
