@@ -2,9 +2,9 @@
   {
     "summoner": "SUPER CHICKEN#birds",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1768466195",
+    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1768469566",
     "rank": "",
-    "tier": "Unranked",
+    "tier": "DIAMOND",
     "lp": 0,
     "win_rate": 23.809523809523807,
     "top4_rate": 59.523809523809526,
@@ -13,15 +13,15 @@
     "top4s": 25,
     "avg_placement": 3.9285714285714284,
     "last_played": "2026-01-11 22:33:46",
-    "current_rank": "Unranked"
+    "current_rank": "DIAMOND IV 0 LP"
   },
   {
     "summoner": "Shμbbanuffa#NA1",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1768466194",
+    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1768469564",
     "rank": "",
-    "tier": "Unranked",
-    "lp": 0,
+    "tier": "EMERALD",
+    "lp": 17,
     "win_rate": 25.0,
     "top4_rate": 56.25,
     "total_games": 32,
@@ -29,15 +29,15 @@
     "top4s": 18,
     "avg_placement": 4.0625,
     "last_played": "2026-01-14 22:34:13",
-    "current_rank": "Unranked"
+    "current_rank": "EMERALD III 17 LP"
   },
   {
     "summoner": "Stelle#def",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Stelle/def?_=1768466197",
+    "url": "https://tactics.tools/player/na/Stelle/def?_=1768469567",
     "rank": "",
-    "tier": "Unranked",
-    "lp": 0,
+    "tier": "EMERALD",
+    "lp": 5,
     "win_rate": 9.375,
     "top4_rate": 50.0,
     "total_games": 32,
@@ -45,15 +45,15 @@
     "top4s": 16,
     "avg_placement": 4.25,
     "last_played": "2026-01-14 22:03:04",
-    "current_rank": "Unranked"
+    "current_rank": "EMERALD II 5 LP"
   },
   {
     "summoner": "Numinya#flush",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Numinya/flush?_=1768466198",
+    "url": "https://tactics.tools/player/na/Numinya/flush?_=1768469568",
     "rank": "",
-    "tier": "Unranked",
-    "lp": 0,
+    "tier": "PLATINUM",
+    "lp": 10,
     "win_rate": 9.090909090909092,
     "top4_rate": 54.54545454545454,
     "total_games": 22,
@@ -61,15 +61,15 @@
     "top4s": 12,
     "avg_placement": 4.5,
     "last_played": "2026-01-10 12:05:44",
-    "current_rank": "Unranked"
+    "current_rank": "PLATINUM III 10 LP"
   },
   {
     "summoner": "agz#fif",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/agz/fif?_=1768466199",
+    "url": "https://tactics.tools/player/na/agz/fif?_=1768469570",
     "rank": "",
-    "tier": "Unranked",
-    "lp": 0,
+    "tier": "PLATINUM",
+    "lp": 1,
     "win_rate": 6.25,
     "top4_rate": 43.75,
     "total_games": 32,
@@ -77,6 +77,6 @@
     "top4s": 14,
     "avg_placement": 4.75,
     "last_played": "2026-01-13 23:09:14",
-    "current_rank": "Unranked"
+    "current_rank": "PLATINUM III 1 LP"
   }
 ]
