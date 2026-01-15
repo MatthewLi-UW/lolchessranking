@@ -1,8 +1,24 @@
 [
   {
+    "summoner": "Shμbbanuffa#NA1",
+    "region": "NA",
+    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1768449953",
+    "rank": "",
+    "tier": "EMERALD",
+    "lp": 17,
+    "win_rate": 27.77777777777778,
+    "top4_rate": 58.333333333333336,
+    "total_games": 36,
+    "wins": 10,
+    "top4s": 21,
+    "avg_placement": 3.888888888888889,
+    "last_played": "2026-01-14 22:34:13",
+    "current_rank": "EMERALD III 17 LP"
+  },
+  {
     "summoner": "SUPER CHICKEN#birds",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1768442497",
+    "url": "https://tactics.tools/player/na/SUPER%20CHICKEN/birds?_=1768449955",
     "rank": "",
     "tier": "DIAMOND",
     "lp": 0,
@@ -16,25 +32,9 @@
     "current_rank": "DIAMOND IV 0 LP"
   },
   {
-    "summoner": "Shμbbanuffa#NA1",
-    "region": "NA",
-    "url": "https://tactics.tools/player/na/Sh%CE%BCbbanuffa/NA1?_=1768442496",
-    "rank": "",
-    "tier": "EMERALD",
-    "lp": 27,
-    "win_rate": 27.77777777777778,
-    "top4_rate": 58.333333333333336,
-    "total_games": 36,
-    "wins": 10,
-    "top4s": 21,
-    "avg_placement": 3.9722222222222223,
-    "last_played": "2026-01-13 23:11:31",
-    "current_rank": "EMERALD III 27 LP"
-  },
-  {
     "summoner": "Numinya#flush",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Numinya/flush?_=1768442500",
+    "url": "https://tactics.tools/player/na/Numinya/flush?_=1768449957",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 10,
@@ -50,7 +50,7 @@
   {
     "summoner": "Stelle#def",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/Stelle/def?_=1768442499",
+    "url": "https://tactics.tools/player/na/Stelle/def?_=1768449956",
     "rank": "",
     "tier": "EMERALD",
     "lp": 5,
@@ -66,7 +66,7 @@
   {
     "summoner": "agz#fif",
     "region": "NA",
-    "url": "https://tactics.tools/player/na/agz/fif?_=1768442501",
+    "url": "https://tactics.tools/player/na/agz/fif?_=1768449959",
     "rank": "",
     "tier": "PLATINUM",
     "lp": 1,
